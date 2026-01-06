@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é João Pedro e sou um desenvolvedor que estou disposto a aprender!</h2>
+<h2 align="left">Oi 👋! Meu nome é João Pedro e sou um desenvolvedor back end aprendiz que estou disposto a aprender!</h2>
 
 ###
 
