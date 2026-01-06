@@ -20,6 +20,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RNgloYivDxu-m0uthmQb78H2ULQhv94GZw&s" height="30" alt="SpringBoot logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="30" alt="React Native logo"  />
+  <img width="12" />
+  <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" height="30" alt="MYSQL logo"  />
   
 </div>
 
